@@ -49,6 +49,11 @@ Unknown >>person인식    Person디렉토리 변환  Move result/person_00(디�
 
 
 
+https://user-images.githubusercontent.com/111891607/207061427-d2bcf00b-15ab-4317-aca3-66c988d04dc3.mp4
+
+
+
+
 -------------------
 
 ### 실행 결과
