@@ -27,9 +27,9 @@ facerecognition을 통해서 실시간으로 사진을 저장합니다.저장된
 
 ![dddd](https://user-images.githubusercontent.com/111891607/207224862-7007ae9d-b526-470d-89df-d45db72e86f7.gif)
 
-### 1.그림에서 얼굴이 있는 영역을 알아낸다. (face location)
-### 2.얼굴 영역에서 눈, 코, 입 등 68개의 주요 좌표를 추출한다. (facial landmarks)
-### 3.68개의 좌표를 128개의 숫자로 변환한다. (face encoding)
+#### 1.그림에서 얼굴이 있는 영역을 알아낸다. (face location)
+#### 2.얼굴 영역에서 눈, 코, 입 등 68개의 주요 좌표를 추출한다. (facial landmarks)
+#### 3.68개의 좌표를 128개의 숫자로 변환한다. (face encoding)
 
 
 128개 숫자는 deep learning의 결과물이기 때문에, 각 숫자의 의미는 알지 못합니다.
