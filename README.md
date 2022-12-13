@@ -2,7 +2,10 @@
 ---------------
 ###  facerecognition
 실시간으로 저장된 사람의 얼굴을 인식하는 프로그램
- 사용된 open-cv 주소
+
+-----------------------------
+
+### 사용된 open-cv 주소
 #### https://github.com/ukayzm/opencv/tree/master/unknown_face_classifier
 
 -----------------------------------------------------
